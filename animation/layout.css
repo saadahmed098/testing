@@ -1,0 +1,17 @@
+#container{
+    background-color: antiquewhite;
+    border: 2px solid black;   
+}
+#header{
+    font-style: italic;
+    color: black;
+    text-decoration: double;
+}
+#menu{
+
+    display: flex;
+    flex-direction: row;
+}
+menu ul{
+    background-color: red;
+}

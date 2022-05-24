@@ -1,0 +1,24 @@
+.container
+         {
+    height: 400px;
+    width: 400px;
+    background-color:black;
+    border: 4px double rgba(194, 239, 13, 0.633);
+    margin-left: 40%;
+}
+.text{
+     background-color: rgb(251, 255, 0);
+     margin: 20px;
+     margin-top: 30%;
+    padding: 20px;
+    font-size: large;
+    font-style: italic;
+    color: blue;
+}
+p{
+  margin: 200px;
+  padding: auto;
+border: 2px double black;;
+background-color: aqua;
+
+}
